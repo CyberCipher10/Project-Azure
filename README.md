@@ -1,4 +1,3 @@
-# Project-Azure
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
@@ -45,7 +44,7 @@ The configuration details of each machine may be found below.
 | Jump Box | Gateway  | 10.0.0.4   | Linux            |
 | Web1     | Webserver| 10.2.0.8   | Linux            |
 | Web3     | Webserver| 10.0.0.9   | Linux            | 
-| Web4     | Elkserver| 10.2.0.4     Linux            
+| Web4     | Elkserver| 10.2.0.4     Linux             
 
 ### Access Policies
 
@@ -107,3 +106,4 @@ Answer the following questions to fill in the blanks:_
 - _Which file do you update to make Ansible run the playbook on a specific machine? You update the hosts file. How do I specify which machine to install the ELK server on versus which to install Filebeat on? Add the private IP under “servers”
 
 - _Which URL do you navigate to in order to check that the ELK server is running? 168.62.31.74:5601/app/kibana
+
