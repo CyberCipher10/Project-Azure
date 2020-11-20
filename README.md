@@ -61,7 +61,7 @@ A summary of the access policies in place can be found in the table below.
 |----------|---------------------|----------------------|
 | Jump Box | No	                | MY PUBLIC IP address |
 | ElkServer| Yes(port 5601 only) | Internet             |
-| Web1     | Yes                 | Via LoadBalancer 40.114.126.210|
+| Web1     | Yes                 | LoadBalancer 40.114.126.210|
 
 ### Elk Configuration
 
